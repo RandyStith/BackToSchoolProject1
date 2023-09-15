@@ -1,0 +1,30 @@
+
+
+.hometext {
+    font-size: 5vw;
+    font-family: sans-serif;
+    text-align: center;
+    border: 1vw solid white;
+    border-style: dotted;
+    color: white;
+    margin-top: 1vw;
+}
+
+.header{
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+}
+
+.goals{
+    color: white;
+    font-size: 2vw;
+}
+li{
+    margin-top: 2vw;
+}
+img{
+    width: 20vw ;
+}
